@@ -3,7 +3,7 @@ ITALIANO
 AI TRANSCRIBER - GUIDA ALL'INSTALLAZIONE
 ========================================
 
-REQUISITI
+REQUISITI:
 
 - Sistema operativo Windows
 - Python 3.12.x
